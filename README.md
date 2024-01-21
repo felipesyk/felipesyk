@@ -1,6 +1,6 @@
 
 ### Olá, eu sou o Felipe! 🖐️
-Atualmente, estou em busca de uma oportunidade que me proporcione a possibilidade de aplicar e ampliar meus conhecimentos no mundo da tecnologia.
+• Atualmente, estou em busca de uma oportunidade que me proporcione a possibilidade de aplicar e ampliar meus conhecimentos no mundo da tecnologia.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipesalustiano/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/felipinhosyk)
